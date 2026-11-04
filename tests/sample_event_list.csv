@@ -1,0 +1,8 @@
+Attendee Name,Email,Company,Title,Phone,Country,Registered
+ADA LOVELACE,Ada@Stripe.com ,"Stripe, Inc.",Engineer,555-0100,USA,yes
+Grace Hopper,grace@shopify.com,Shopify,VP Engineering,,Canada,yes
+ada lovelace,ada@stripe.com,Stripe,,555-0100,US,yes
+Linus Torvalds,not-an-email,Linux Foundation,Fellow,,Finland,no
+,,,,,,
+Margaret Hamilton,margaret@gmail.com,Datadog,Director,555-0199,united states of america,yes
+Alan Turing,alan@datadoghq.com,DATADOG,Researcher,,UK,yes
